@@ -1,3 +1,3 @@
-#My personal site
+# My personal site
 
 Just my personal site
